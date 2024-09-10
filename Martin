@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1st KEY Markets - Forex Trading</title>
+    <meta name="description" content="Learn about forex trading strategies, insights, and tools with 1st KEY Markets.">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .contact-button {
+            background-color: #3498db;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2rem;
+            cursor: pointer;
+        }
+        .contact-button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to 1st KEY Markets</h1>
+    <p>Your go-to resource for forex trading strategies and insights.</p>
+    
+    <a href="https://wa.me/264857160538" target="_blank">
+        <button class="contact-button">Contact Me on WhatsApp</button>
+    </a>
+</body>
+</html>
